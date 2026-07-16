@@ -2,47 +2,90 @@
   "apps": [
  
     {
-      "name": "AirPlane Simulator",
-      "packageName": "com.kick.flight.pilot.airplane.games",
-      "targetAsin": "B0BFQPLZS1",
-      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
-      "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
+      "name": "Critical sniper Tzar Fps",
+      "packageName": "Critical sniper Tzar Fps",
+      "targetAsin": "B0CGMDN9XV",
+      "storeUrl": "https://www.amazon.com/Special-Services-operation-Commando-Shooting/dp/B0CGMDN9XV",
+      "rewardedVideoURL": "https://files.catbox.moe/4dvr0w.mp4"
     },
   
     {
-      "name": "Worm Clash",
-      "packageName": "com.worm.snake.clah.mm",
-      "targetAsin": "B0GYPZJ4R2",
-      "storeUrl": "https://www.amazon.com/Clash-Battle-Arena-Survive-Ultimate/dp/B0GYPZJ4R2",
-      "rewardedVideoURL": "https://files.catbox.moe/9986hg.mp4"
+      "name": "Open World Farming",
+      "packageName": "com.open.world.farming.at",
+      "targetAsin": "B0DQ19XKH4",
+      "storeUrl": "https://www.amazon.com/World-Gangster-Farming-Simulator-Tractor/dp/B0DQ19XKH4",
+      "rewardedVideoURL": "https://files.catbox.moe/bbfwwx.mp4"
     },
     {
-      "name": "Dino Hunting",
-      "packageName": "com.dino.family.simulator.hunt",
-      "targetAsin": "B0GHNNSRLC",
-      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
-      "rewardedVideoURL": "https://files.catbox.moe/lzm1lb.mp4"
+      "name": "Gun SoundShoot",
+      "packageName": "com.arg.gun.simulator.sounds.game",
+      "targetAsin": "B0DDQ479C8",
+      "storeUrl": "https://www.amazon.com/Sounds-Game-Shooting-Simulator-various/dp/B0DDQ479C8",
+      "rewardedVideoURL": "https://files.catbox.moe/nz1e0f.mp4"
     },
      {
-      "name": "Worm Clash",
-      "packageName": "com.worm.snake.clah.mm",
-      "targetAsin": "B0GYPZJ4R2",
-      "storeUrl": "https://www.amazon.com/Clash-Battle-Arena-Survive-Ultimate/dp/B0GYPZJ4R2",
-      "rewardedVideoURL": "https://files.catbox.moe/zms12c.mp4"
+      "name": "FGR 2",
+      "packageName": "com.street.fighting.at",
+      "targetAsin": "B0DQ5637NG",
+      "storeUrl": "https://www.amazon.com/Street-Fighting-Games-Legend-Fighter/dp/B0DQ5637NG",
+      "rewardedVideoURL": "https://files.catbox.moe/kvodj1.mp4"
     },
     {
-      "name": "AirPlane Simulator",
-      "packageName": "com.ikk.flight.pilot.airplane.games",
-      "targetAsin": "B0BFQPLZS1",
-      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
-      "rewardedVideoURL": "https://files.catbox.moe/8odv11.mp4"
+      "name": "Pub Fps",
+      "packageName": "com.wkg.fpspubshooting",
+      "targetAsin": "B0CGMFJVXL",
+      "storeUrl": "https://www.amazon.com/Gunfights-Tactical-Missions-Commando-challenges/dp/B0CGMFJVXL",
+      "rewardedVideoURL": "https://files.catbox.moe/4dvr0w.mp4"
     },
   {
-      "name": "Dino Hunting",
-      "packageName": "com.dino.family.simulator.hunt",
-      "targetAsin": "B0GHNNSRLC",
-      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
-      "rewardedVideoURL": "https://files.catbox.moe/zapmbp.mp4"
+      "name": "Open World Farming",
+      "packageName": "com.open.world.farming.at",
+      "targetAsin": "B0DQ19XKH4",
+      "storeUrl": "https://www.amazon.com/World-Gangster-Farming-Simulator-Tractor/dp/B0DQ19XKH4",
+      "rewardedVideoURL": "https://files.catbox.moe/bbfwwx.mp4"
+    },
+    {
+      "name": "Critical sniper Tzar Fps",
+      "packageName": "Critical sniper Tzar Fps",
+      "targetAsin": "B0CGMDN9XV",
+      "storeUrl": "https://www.amazon.com/Special-Services-operation-Commando-Shooting/dp/B0CGMDN9XV",
+      "rewardedVideoURL": "https://files.catbox.moe/4dvr0w.mp4"
+    },
+  
+    {
+      "name": "Open World Farming",
+      "packageName": "com.open.world.farming.at",
+      "targetAsin": "B0DQ19XKH4",
+      "storeUrl": "https://www.amazon.com/World-Gangster-Farming-Simulator-Tractor/dp/B0DQ19XKH4",
+      "rewardedVideoURL": "https://files.catbox.moe/bbfwwx.mp4"
+    },
+    {
+      "name": "Gun SoundShoot",
+      "packageName": "com.arg.gun.simulator.sounds.game",
+      "targetAsin": "B0DDQ479C8",
+      "storeUrl": "https://www.amazon.com/Sounds-Game-Shooting-Simulator-various/dp/B0DDQ479C8",
+      "rewardedVideoURL": "https://files.catbox.moe/nz1e0f.mp4"
+    },
+     {
+      "name": "FGR 2",
+      "packageName": "com.street.fighting.at",
+      "targetAsin": "B0DQ5637NG",
+      "storeUrl": "https://www.amazon.com/Street-Fighting-Games-Legend-Fighter/dp/B0DQ5637NG",
+      "rewardedVideoURL": "https://files.catbox.moe/kvodj1.mp4"
+    },
+    {
+      "name": "Pub Fps",
+      "packageName": "com.wkg.fpspubshooting",
+      "targetAsin": "B0CGMFJVXL",
+      "storeUrl": "https://www.amazon.com/Gunfights-Tactical-Missions-Commando-challenges/dp/B0CGMFJVXL",
+      "rewardedVideoURL": "https://files.catbox.moe/4dvr0w.mp4"
+    },
+  {
+      "name": "Open World Farming",
+      "packageName": "com.open.world.farming.at",
+      "targetAsin": "B0DQ19XKH4",
+      "storeUrl": "https://www.amazon.com/World-Gangster-Farming-Simulator-Tractor/dp/B0DQ19XKH4",
+      "rewardedVideoURL": "https://files.catbox.moe/bbfwwx.mp4"
     }
   ]
 }
